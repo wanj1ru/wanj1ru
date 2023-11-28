@@ -25,7 +25,7 @@ Connect with me:
 
 <p align="left">  
 <a href="https://twitter.com/Wanjiruu_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="www.linkedin.com/in/estherkungu2022)" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="www.linkedin.com/in/estherkungu2022" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 
 <a href="https://www.instagram.com/wanj1ru/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 <a href="mailto:wanjirukungu2022@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
