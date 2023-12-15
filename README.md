@@ -5,8 +5,7 @@
 
 ### Hi there 👋
 
-I love being part of minds that give back to the community. Open-Source contribution and community development are my greatest passion!
-
+I love being part of minds that give back to the community. 
 
 <!--
 **wanj1ru/wanj1ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
