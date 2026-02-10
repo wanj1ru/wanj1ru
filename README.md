@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 Connect with me:
 
 <p align="left">  
-<a href="https://www.linkedin.com/in/estherkungu2022/" target="blank"><img src="https://img.icons8.om/color/35/000000/linkedin.png"/></a>
-
 <a href="mailto:wanjirukungu2022@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 ### Languages and Tools:
