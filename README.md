@@ -19,8 +19,8 @@ Connect with me:
 <p align="left">  
 <a href="mailto:wanjirukungu2022@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
-< p align="left">
-<a href="https://twitter.com/Wanjiruu_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
+<p align="left">
+<a href="https://twitter.com/Wanjiruu_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png></a>
 </p>
   
   
